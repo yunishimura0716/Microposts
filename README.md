@@ -30,6 +30,11 @@ $ npm run build
 ```
 
 ## More Info
+we use json server for fake api
+#### how to build the api server
+```
+$ npm run json:server
+```
 
 ### Author
 
